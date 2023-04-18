@@ -160,5 +160,5 @@ public class FoodMap extends AppCompatActivity implements OnMapReadyCallback, Go
 
     }
 
-    
+
 }
